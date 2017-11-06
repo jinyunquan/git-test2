@@ -3,3 +3,4 @@ server side change content
 server side change content again
 server side change content again again
 server side change content again again again
+client side change this new line.
